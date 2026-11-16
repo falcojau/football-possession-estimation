@@ -1,7 +1,7 @@
 # Football Possession Estimation
 
-Frame-level ball-possession estimation (home / away / dead ball) from player and ball tracking,
-developed for the *More than a Hack 2027* challenge (FC Barcelona vs Athletic Club).
+End-to-end football possession estimation system using player and ball tracking data, geometric analysis, and temporal state machines. 
+The pipeline processes over 199,000 frames, combining rule-based inference and explainable decision logic to estimate possession and potential game stoppages.
 
 ## Acknowledgements
 
